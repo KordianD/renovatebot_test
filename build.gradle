@@ -1,0 +1,11 @@
+plugins {
+    id 'org.asciidoctor.convert' version '1.5.12'
+    id 'org.springframework.boot' version '2.7.10'
+}
+
+apply plugin: 'io.spring.dependency-management'
+
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+}
+
