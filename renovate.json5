@@ -4,6 +4,7 @@
 		"config:base",
 		"group:recommended",
 		"group:test",
+                "group:all",
 		":disableMajorUpdates"
 	]
 }
