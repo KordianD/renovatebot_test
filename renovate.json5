@@ -6,5 +6,6 @@
 		"group:test",
                 "group:all",
 		":disableMajorUpdates"
-	]
+	],
+	 "separateMajorMinor": true
 }
