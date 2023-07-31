@@ -12,6 +12,5 @@ dependencies {
         version {
             strictly("2.15.1")
         }
+    }
 }
-
-
